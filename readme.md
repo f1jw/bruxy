@@ -16,7 +16,7 @@ for (let i in req.c) {
 
 � :3 �
 
-b w u x y
-b r u h x y 
-b r u h c k s y
-f 1 j w
+b w u x y - 
+b r u h x y - 
+b r u h c k s y - 
+f 1 j w - 
