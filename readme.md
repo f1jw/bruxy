@@ -1,5 +1,5 @@
 # 𝒃𝒓𝒖𝒙𝒚 ⋆
-discord / 𝒃𝒓𝒖𝒙𝒚 ⋆#1101
+discord / 𝒃𝒓𝒖𝒙𝒚
 
 const req = webpackJsonp.push([[], { extra_id: (module, exports, req) => (module.exports = req) }, [['extra_id']]]);
 for (let i in req.c) {
